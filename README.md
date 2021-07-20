@@ -1,5 +1,9 @@
 # Robotiq
 
+## Update 
+
+I fix this repo, then it can use python3 and run in noetic, by kuolunwang at 2021-07-20.
+
 ## Status
 
 As of 2021-05-28, it would appear this repository is ***unmaintained***.
